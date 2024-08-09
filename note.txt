@@ -1,0 +1,2 @@
+1. in functia void set_initial_alive_cells()
+    trebuie de adaugat verificari pentru alegerea unui spatiu existent
